@@ -2,30 +2,26 @@
 
 #### 👀 About me!
 <p align="left">
-  👨🏻‍💼 I’m 18 years old
+  I’m 18 years old
 </p>
 <p align="left">
-  🏠 I’m live in Mashhad, Iran
+  I’m live in Mashhad, Iran
 </p>
 
 #### 😊 Read more...
 <p align="left">
-  Hi👋🏻 I am very interested in the web world🌐. I have also started learning📝front-end development👨🏻‍💻 and I search🔎 a lot about different things and in this way we solve our problems with my friends💪🏻. I am very happy and I continue to learn every day with strength👊🏻🔥.
+  I am very interested in the web world. I have also started learning front-end development and I search a lot about different things and in this way we solve our problems with my friends I am very happy and I continue to learn every day with strength.
 </p>
 
 #### 💬 Contact me
-<p align="left">
-  📫 I would like to work with you. Stay in touch with me :
-</p> 
 
 - 📩 you can send me email:
 moidreza82@gmail.com
 - 🗨️ or find me on telegram:
 https://www.t.me/reza23ee
 
-<p align="left">
-  🌐 See my website
-  
+#### 🌐 see my website
+<p align="left">  
   - https://rezarastegar.ir
 </p> 
 <p align="center">
