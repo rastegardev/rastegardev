@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Reza Rastegar</h1>
 
-## 👀 About Me!
+## 👀 About me!
 <p align="left">
   I’m 18 years old
 </p>
@@ -8,12 +8,12 @@
   I’m live in Mashhad, Iran
 </p>
 
-## 😊 Read More...
+## 😊 Read more...
 <p align="left">
   I am very interested in the web world. I have also started learning front-end development and I search a lot about different things and in this way we solve our problems with my friends I am very happy and I continue to learn every day with strength.
 </p>
 
-## 🌐 See My Website
+## 🌐 See my website
 <p align="left">  
   https://rezarastegar.ir
 </p> 
@@ -25,7 +25,7 @@ moidreza82@gmail.com
 - 🗨️ or find me on telegram:
 https://www.t.me/reza23ee
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and tools:
 
 <p align="left"> 
 <!--     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> -->
@@ -38,7 +38,7 @@ https://www.t.me/reza23ee
 <!--     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  -->
 </p>
 
-## 📊 My Github Stats
+## 📊 My github stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezarastegar2003)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -46,7 +46,7 @@ https://www.t.me/reza23ee
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezarastegar2003)](https://github.com/anuraghazra/github-readme-stats)
 
-## ❤ Views and Followers
+## ❤ Views and followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=rezarastegar2003">
 </a>
