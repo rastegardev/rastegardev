@@ -18,12 +18,18 @@
   https://rezarastegar.ir
 </p> 
 
-## 💬 Contact me
+## 📩 Contact me
+you can send me email: moidreza82@gmail.com
 
-- 📩 you can send me email:
-moidreza82@gmail.com
-- 🗨️ or find me on telegram:
-https://www.t.me/reza23ee
+## 📱 Social media
+<p>
+  <a href="https://www.instagram.com/reza_rastegar2003?r=nametag"><img src="https://img.icons8.com/bubbles/50/000000/instagram-new--v2.png"/></a>
+  <a href="https://t.me/reza23ee"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png"/></a>
+  <a href="https://twitter.com/RRastegar2003?s=09"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/></a>
+  
+ 
+<!--   <img src="" alt="Coding gif" width="250">    -->
+</p>
 
 ## 🚀 Languages and tools:
 
@@ -53,6 +59,5 @@ https://www.t.me/reza23ee
 <a href="https://github.com/rezarastegar2003?tab=followers"><img src="https://img.shields.io/github/followers/rezarastegar2003?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <p align="center">
-<!--   <img src="https://user-images.githubusercontent.com/85369490/153697595-5659f00e-58c4-4dff-8f38-7eab1311178f.png" alt="work space photo">  -->
   <img src="https://user-images.githubusercontent.com/85369490/154224043-b72031a3-55e4-44fd-8250-9b8456f02e3d.gif" alt="Coding gif" width="250">   
 </p>
