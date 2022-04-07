@@ -5,12 +5,12 @@
   I’m 18 years old
 </p>
 <p align="left">
-  I’m live in Mashhad, Iran
+ live in Mashhad, Iran
 </p>
 
 ## 😊 Read more...
 <p align="left">
-  I am very interested in the web world. I have also started learning front-end development and I search a lot about different things and in this way we solve our problems with my friends I am very happy and I continue to learn every day with strength.
+ Hello, I am Reza Rastegar. I am interested in the world of web and technology and now I am a Joniur Front End Developer, I am learning every day and every moment and this path continues
 </p>
 
 ## 🌐 See my website
@@ -19,7 +19,7 @@
 </p> 
 
 ## 📩 Contact me
-you can send me email: moidreza82@gmail.com
+ moidreza82@gmail.com
 
 ## 📱 Social media
 <p>
