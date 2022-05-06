@@ -1,59 +1,46 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Reza Rastegar</h1>
+Hi 👋 My name is Reza Rastegar
+==============================
 
-## 👀 About me!
+Joniur Front End Developer👨🏻‍💻
+---------------------------------
+I am interested in the world of web and technology and digital marketing and now I am a Joniur Front End Developer, I am learning every day and every moment and this path continues ...
+
+* 🌍  I'm based in Iran, Mashhad
+* 🖥️  See my portfolio at [rezarastegar.ir](http://rezarastegar.ir)
+* ✉️  You can contact me at [moidreza82@gmail.com](mailto:moidreza82@gmail.com)
+* 🧠  I'm learning javascript
+* 🤝  I'm open to collaborating on Front end development
+
+
+### Skills
+
 <p align="left">
-  I’m 18 years old
-</p>
-<p align="left">
- live in Mashhad, Iran
-</p>
-
-## 😊 Read more...
-<p align="left">
- Hello, I am Reza Rastegar. I am interested in the world of web and technology and now I am a Joniur Front End Developer, I am learning every day and every moment and this path continues
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/wordpress.png" width="36" height="36" alt="wordpress"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-## 🌐 See my website
-<p align="left">  
-  https://rezarastegar.ir
-</p> 
+<br/>
 
-## 📩 Contact me
- moidreza82@gmail.com
 
-## 📱 Social media
-<p>
-  <a href="https://www.instagram.com/reza_rastegar2003?r=nametag"><img src="https://img.icons8.com/bubbles/50/000000/instagram-new--v2.png"/></a>
-  <a href="https://t.me/reza23ee"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png"/></a>
-  <a href="https://twitter.com/RRastegar2003?s=09"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/></a>
-  
- 
-<!--   <img src="" alt="Coding gif" width="250">    -->
-</p>
+### Socials
 
-## 🚀 Languages and tools:
+<p align="left"> <a href="https://www.github.com/rezarastegar2003" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/reza_rastegar2003" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/reza-rastegar-58ba7a20b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/RRastegar2003" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<p align="left"> 
-<!--     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> -->
-<!--     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>  -->
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https:https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/sass"/> </a>
-    <a href="https://wordpress.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wordpress.png"/> </a> 
-    <a href="https://analytics.google.com/analytics/web/#/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-analytics.png"/> </a> 
-<!--     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  -->
-<!--     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  -->
-</p>
 
-## 📊 My github stats
+### Badges
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezarastegar2003)](https://github.com/anuraghazra/github-readme-stats)
+<b>My GitHub Stats</b>
 
-## ✨ Top Languages Card
+<a href="http://www.github.com/rezarastegar2003"><img src="https://github-readme-stats.vercel.app/api?username=rezarastegar2003&show_icons=true&hide=prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="rezarastegar2003's GitHub stats" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezarastegar2003)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/rezarastegar2003" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezarastegar2003&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-## ❤ Views and followers
+
+### Views and followers
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=rezarastegar2003">
 </a>
