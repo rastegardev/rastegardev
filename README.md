@@ -1,5 +1,7 @@
-Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Reza Rastegar
+Hi  My name is Reza Rastegar
 ==============================
+
+<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> -->
 
 Joniur Front End Developer👨🏻‍💻
 ---------------------------------
@@ -44,6 +46,12 @@ I am interested in the world of web and technology and digital marketing and now
 </a>
 <a href="https://github.com/rezarastegar2003?tab=followers"><img src="https://img.shields.io/github/followers/rezarastegar2003?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<p align="center">
+<p align="center" border-radius: 12px;>
   <img src="https://user-images.githubusercontent.com/85369490/154224043-b72031a3-55e4-44fd-8250-9b8456f02e3d.gif" alt="Coding gif" width="250">   
 </p>
+
+<div align=center>
+    
+ ![github-user-contribution (1)](https://user-images.githubusercontent.com/97861491/171216843-3ace5e2b-1297-4cc9-9314-6173b3bd2d39.svg)
+    
+</div>
