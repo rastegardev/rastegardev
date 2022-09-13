@@ -17,12 +17,10 @@ I am interested in the world of web and technology and digital marketing and now
 ### 🚀Skills
 
 <p align="left">
+<a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/wordpress.png" width="36" height="36" alt="wordpress"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/wordpress.png" width="36" height="36" alt="wordpress"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
 
 
 ### 📱Socials
