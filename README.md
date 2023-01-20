@@ -1,9 +1,21 @@
 Hi  My name is Reza Rastegar
 ==============================
 
+* 🌍  I'm based in Iran, Mashhad
+* 🖥️  See my portfolio at [rezarastegar.ir](http://rezarastegar.ir)
+* ✉️  You can contact me at [info@rezarastegar.ir](mailto:moidreza82@gmail.com)
+* 🧠  I'm learning ReactJS
+* 🤝  I'm open to collaborating on Front end development
+
+<div align=center>
+    
+ ![github-user-contribution (1)](https://user-images.githubusercontent.com/97861491/171216843-3ace5e2b-1297-4cc9-9314-6173b3bd2d39.svg)
+    
+</div>
+
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> -->
 
-Joniur Front End Developer👨🏻‍💻
+<!-- Joniur Front End Developer👨🏻‍💻
 ---------------------------------
 I am interested in the world of web and technology and digital marketing and now I am a Joniur Front End Developer, I am learning every day and every moment and this path continues ...
 
@@ -52,4 +64,4 @@ I am interested in the world of web and technology and digital marketing and now
     
  ![github-user-contribution (1)](https://user-images.githubusercontent.com/97861491/171216843-3ace5e2b-1297-4cc9-9314-6173b3bd2d39.svg)
     
-</div>
+</div> -->
