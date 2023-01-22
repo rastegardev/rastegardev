@@ -7,6 +7,11 @@ Hi  My name is Reza Rastegar
 * 🧠  I'm learning ReactJS
 * 🤝  I'm open to collaborating on Front end development
 
+### 📱Socials
+
+<a href="https://www.linkedin.com/in/rastegardev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/rastegardev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 <div align=center>
     
  ![github-user-contribution (1)](https://user-images.githubusercontent.com/97861491/171216843-3ace5e2b-1297-4cc9-9314-6173b3bd2d39.svg)
