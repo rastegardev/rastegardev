@@ -4,7 +4,7 @@ Hi  My name is Reza Rastegar
 * 🌍  I'm based in Iran, Mashhad
 * 🖥️  See my portfolio at [rezarastegar.ir](http://rezarastegar.ir)
 * ✉️  You can contact me at [info@rezarastegar.ir](mailto:moidreza82@gmail.com)
-* 🧠  I'm learning ReactJS
+* 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on Front end development
 
 ### 📱Socials
