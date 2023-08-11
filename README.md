@@ -3,8 +3,8 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 
 * 🌍  I'm based in Iran, Mashhad
 * 🖥️  See my portfolio at [rezarastegar.ir](http://rezarastegar.ir)
-* ✉️  You can contact me at [info@rezarastegar.ir](mailto:moidreza82@gmail.com)
-* 🧠  I'm learning TypeScript
+* ✉️  You can contact me at [business.rezarastegar@gmail.com](mailto:business.rezarastegar@gmail.com)
+* 🧠  I'm learning TypeScript & Nextjs
 * 🤝  I'm open to collaborating on Front end development
 
 ### 📊Badges (My GitHub Stats)
