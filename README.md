@@ -3,12 +3,11 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 
 * 🌍  I'm based in Iran, Mashhad
 * 🖥️  See my portfolio at [rastegar.info](http://rastegar.info)
-* ✉️  You can contact me at [business.rezarastegar@gmail.com](mailto:business.rezarastegar@gmail.com)
-* 🧠  I'm learning TypeScript & Nextjs
-* 🤝  I'm open to collaborating on Front end development
+* ✉️  You can contact me at [support@rastegar.info](mailto:support@rastegar.info) 
+* 🤝  I'm open to collaborating on Front-end development
 
-### 📊Badges (My GitHub Stats)
-<a href="https://github.com/rastegardev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rastegardev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- ### 📊Badges (My GitHub Stats) -->
+<!-- <a href="https://github.com/rastegardev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rastegardev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 ### ❤Views and followers
 
